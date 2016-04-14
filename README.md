@@ -9,6 +9,9 @@ https://github.com/JustGoscha/allmighty-autocomplete
 powerful Text-Editor
 https://github.com/fraywing/textAngular
 
+angular2-tree-component
+https://github.com/500tech/angular2-tree-component
+
 #CSS
 
 Native AngularJS (Angular) directives for Bootstrap
