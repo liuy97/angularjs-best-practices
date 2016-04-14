@@ -20,6 +20,9 @@ https://github.com/angular-ui/bootstrap
 angular2-materialize
 https://github.com/InfomediaLtd/angular2-materialize
 
+materialize-css
+http://krescruz.github.io/angular-materialize/
+
 #JS Library
 lodash
 https://github.com/lodash/lodash/
