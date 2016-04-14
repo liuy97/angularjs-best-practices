@@ -9,8 +9,12 @@ https://github.com/JustGoscha/allmighty-autocomplete
 powerful Text-Editor
 https://github.com/fraywing/textAngular
 
+CSS
 Native AngularJS (Angular) directives for Bootstrap
 https://github.com/angular-ui/bootstrap
+
+angular2-materialize
+https://github.com/InfomediaLtd/angular2-materialize
 
 #JS Library
 lodash
