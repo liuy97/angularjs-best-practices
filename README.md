@@ -27,6 +27,10 @@ http://krescruz.github.io/angular-materialize/
 lodash
 https://github.com/lodash/lodash/
 
+#Util
+TypeScript Definition Manager https://github.com/typings/typings
+definitelytyped https://github.com/DefinitelyTyped/DefinitelyTyped
+
 #Framework
 Spring Boot + AngularJS
 https://github.com/jhipster/generator-jhipster
