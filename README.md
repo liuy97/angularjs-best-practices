@@ -1,7 +1,6 @@
 # angularjs-best-practices
-angularjs best practices
 
-#Tools
+#Component
 
 - allmighty-autocomplete
 https://github.com/JustGoscha/allmighty-autocomplete
