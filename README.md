@@ -11,6 +11,9 @@ https://github.com/fraywing/textAngular
 - angular2-tree-component
 https://github.com/500tech/angular2-tree-component
 
+- ng2-charts
+https://github.com/valor-software/ng2-charts
+
 #CSS
 
 - Native AngularJS (Angular) directives for Bootstrap
