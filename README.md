@@ -35,6 +35,7 @@ https://github.com/lodash/lodash/
 - Universal dynamic module loader https://github.com/systemjs/systemjs
 - ECMAScript 6 compatibility shims for legacy JavaScript engines https://github.com/paulmillr/es6-shim
 - The Reactive Extensions for JavaScript https://github.com/Reactive-Extensions/RxJS
+
 #Framework
 - Spring Boot + AngularJS
 https://github.com/jhipster/generator-jhipster
