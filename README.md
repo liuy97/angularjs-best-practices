@@ -19,6 +19,9 @@ https://github.com/valor-software/ng2-charts
 - Native AngularJS (Angular) directives for Bootstrap
 https://github.com/angular-ui/bootstrap
 
+- NG Bootstrap - Angular 2 directives specific to Bootstrap 4
+https://github.com/ng-bootstrap/core
+
 - angular2-materialize
 https://github.com/InfomediaLtd/angular2-materialize
 
