@@ -14,6 +14,9 @@ https://github.com/500tech/angular2-tree-component
 - ng2-charts
 https://github.com/valor-software/ng2-charts
 
+-ng-sortable
+https://github.com/a5hik/ng-sortable
+
 #CSS
 
 - Native AngularJS (Angular) directives for Bootstrap
