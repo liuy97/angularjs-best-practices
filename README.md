@@ -31,6 +31,9 @@ https://github.com/InfomediaLtd/angular2-materialize
 - materialize-css
 http://krescruz.github.io/angular-materialize/
 
+- ng2-material
+https://github.com/justindujardin/ng2-material
+
 #JS Library
 - lodash
 https://github.com/lodash/lodash/
