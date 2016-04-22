@@ -34,6 +34,9 @@ http://krescruz.github.io/angular-materialize/
 - ng2-material
 https://github.com/justindujardin/ng2-material
 
+- Material Design for Angular 2
+https://github.com/angular/material2
+
 #JS Library
 - lodash
 https://github.com/lodash/lodash/
