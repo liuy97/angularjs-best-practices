@@ -17,6 +17,12 @@ https://github.com/valor-software/ng2-charts
 - ng-sortable
 https://github.com/a5hik/ng-sortable
 
+- ng2-material
+https://github.com/justindujardin/ng2-material
+
+- Material Design for Angular 2
+https://github.com/angular/material2
+
 #CSS
 
 - Native AngularJS (Angular) directives for Bootstrap
@@ -30,12 +36,6 @@ https://github.com/InfomediaLtd/angular2-materialize
 
 - materialize-css
 http://krescruz.github.io/angular-materialize/
-
-- ng2-material
-https://github.com/justindujardin/ng2-material
-
-- Material Design for Angular 2
-https://github.com/angular/material2
 
 - The iconic font and CSS toolkit
 http://fontawesome.io
