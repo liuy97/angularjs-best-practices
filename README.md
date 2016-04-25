@@ -37,6 +37,9 @@ https://github.com/justindujardin/ng2-material
 - Material Design for Angular 2
 https://github.com/angular/material2
 
+- The iconic font and CSS toolkit
+http://fontawesome.io
+
 #JS Library
 - lodash
 https://github.com/lodash/lodash/
