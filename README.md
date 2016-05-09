@@ -23,6 +23,9 @@ https://github.com/justindujardin/ng2-material
 - Material Design for Angular 2
 https://github.com/angular/material2
 
+- ng2-table
+https://github.com/valor-software/ng2-table
+
 #CSS
 
 - Native AngularJS (Angular) directives for Bootstrap
