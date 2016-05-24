@@ -68,4 +68,9 @@ https://github.com/lodash/lodash/
 - Spring Boot + AngularJS
 https://github.com/jhipster/generator-jhipster
 
+#Seeds
+-SB Admin 2.0 project with Angular 2 and ng2-bootstrap
+https://github.com/AngularShowcase/ng2-bootstrap-sbadmin
 
+-Modular seed project for Angular 2 apps
+https://github.com/mgechev/angular2-seed
