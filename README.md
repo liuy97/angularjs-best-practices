@@ -26,6 +26,9 @@ https://github.com/angular/material2
 - ng2-table
 https://github.com/valor-software/ng2-table
 
+- ng2 datatable
+https://github.com/mariuszfoltak/angular2-datatable
+
 - oauth2
 https://github.com/michaeloryl/angular2-bootstrap4-oauth2-webpack
 
