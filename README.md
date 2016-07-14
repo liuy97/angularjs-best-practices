@@ -35,6 +35,9 @@ https://github.com/michaeloryl/angular2-bootstrap4-oauth2-webpack
 - angular2-login-seed
 https://github.com/domfarolino/angular2-login-seed
 
+- ng2-select
+https://github.com/valor-software/ng2-select
+
 #CSS
 
 - Native AngularJS (Angular) directives for Bootstrap
