@@ -38,6 +38,9 @@ https://github.com/domfarolino/angular2-login-seed
 - ng2-select
 https://github.com/valor-software/ng2-select
 
+- ng2-dragula
+https://github.com/valor-software/ng2-dragula
+
 #CSS
 
 - Native AngularJS (Angular) directives for Bootstrap
