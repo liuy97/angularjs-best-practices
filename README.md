@@ -61,6 +61,8 @@ http://fontawesome.io
 #JS Library
 - lodash
 https://github.com/lodash/lodash/
+- rxjs
+https://github.com/Reactive-Extensions/RxJS
 
 #Util
 - TypeScript Definition Manager https://github.com/typings/typings
