@@ -83,5 +83,8 @@ https://github.com/jhipster/generator-jhipster
 - SB Admin 2.0 project with Angular 2 and ng2-bootstrap
 https://github.com/AngularShowcase/ng2-bootstrap-sbadmin
 
+- angular2-login-seed
+https://github.com/domfarolino/angular2-login-seed
+
 - Modular seed project for Angular 2 apps
 https://github.com/mgechev/angular2-seed
