@@ -41,6 +41,9 @@ https://github.com/valor-software/ng2-select
 - ng2-dragula
 https://github.com/valor-software/ng2-dragula
 
+- ng2-ckeditor
+https://github.com/chymz/ng2-ckeditor
+
 #CSS
 
 - Native AngularJS (Angular) directives for Bootstrap
