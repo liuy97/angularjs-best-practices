@@ -1,6 +1,6 @@
 # angularjs-best-practices
 
-#Component
+# Component
 
 - allmighty-autocomplete
 https://github.com/JustGoscha/allmighty-autocomplete
@@ -44,7 +44,7 @@ https://github.com/valor-software/ng2-dragula
 - ng2-ckeditor
 https://github.com/chymz/ng2-ckeditor
 
-#CSS
+# CSS
 
 - Native AngularJS (Angular) directives for Bootstrap
 https://github.com/angular-ui/bootstrap
@@ -61,13 +61,13 @@ http://krescruz.github.io/angular-materialize/
 - The iconic font and CSS toolkit
 http://fontawesome.io
 
-#JS Library
+# JS Library
 - lodash
 https://github.com/lodash/lodash/
 - rxjs
 https://github.com/Reactive-Extensions/RxJS
 
-#Util
+# Util
 - TypeScript Definition Manager https://github.com/typings/typings
 
 - definitelytyped https://github.com/DefinitelyTyped/DefinitelyTyped
@@ -78,11 +78,11 @@ https://github.com/Reactive-Extensions/RxJS
 
 - The Reactive Extensions for JavaScript https://github.com/Reactive-Extensions/RxJS
 
-#Framework
+# Framework
 - Spring Boot + AngularJS
 https://github.com/jhipster/generator-jhipster
 
-#Seeds
+# Seeds
 - SB Admin 2.0 project with Angular 2 and ng2-bootstrap
 https://github.com/AngularShowcase/ng2-bootstrap-sbadmin
 
